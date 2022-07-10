@@ -15,5 +15,5 @@ Este repositorio contiene el código correspondiente al trabajo de <i>"Predicci�
   
 A continuación, se describen los ficheros y su contenido
 
-  ** Fichero 01a-extract_data_all_stations.ipynb
-  ** 
+* Fichero 01a-extract_data_all_stations.ipynb
+  
