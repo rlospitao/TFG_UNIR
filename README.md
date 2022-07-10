@@ -13,3 +13,7 @@
 <p>
 Este repositorio contiene el código correspondiente al trabajo de <i>"Predicción de las precipitaciones en Madrid con Redes Neuronales"</i>. Se trata de cuatro libros notebooks desarrollados con Jupyter. Para poder ejecutar los notebooks, se recomienda abrir el repositorio desde Google Collaborate ya que así se dispone del entorno necesario para su ejecución.
   
+A continuación, se describen los ficheros y su contenido
+
+  ** Fichero 01a-extract_data_all_stations.ipynb
+  ** 
