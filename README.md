@@ -21,7 +21,7 @@ Este repositorio contiene el código correspondiente al trabajo de <i>"Predicci�
 </ol>
 <p> El proyecto, consta de los siguientes libros Jupyter: 
 
-* 01a-extract_data_all_stations.ipynb
+* 01a-extract_data_all_stations.ipynb. Notebook que se conecta a OpenData AEMET para descargar toda la información climatológica mensual de todas las estaciones de la Comunidad de Madrid, desde el año 1960 hasta 2022. La información se 'almacena `vvv` en <i>data\data_all_stati ns_from1960.csv</i>
 * 01b-extract_data_3195.ipynb
 * 02-clean_data_3195.ipynb
 * 03-predective_models.ipynb
