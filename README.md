@@ -29,7 +29,7 @@ Este repositorio contiene el código correspondiente al trabajo de <i>"Predicci�
 
 <p>Para su desarrollo, se ha empleado un entorno en Anaconda Navigator con las siguientes librerías: <i>matplotlib, missingno, seaborn, Keras 2.6 y TensorFlow 2</i>.
 
-<p>Nota: Para su ejecución, se recomienda buscar desde Google Collaborate este repositorio, teniendo en cuenta que la lectura de los ficheros se realiza desde un directorio (previamente creado) con el nombre <i>data</i>. Otra opción, sería subir los ficheros .csv al directorio <i>sample_data</i>de Google Collaborare y modificar el path.
+<p>Nota: Para su ejecución, se recomienda buscar desde Google Collaborate este repositorio, teniendo en cuenta que la lectura de los ficheros se realiza desde un directorio (previamente creado) con el nombre <i>data</i>. Otra opción, sería subir los ficheros .csv al directorio <i>sample_data</i>de Google Collaborate y modificar el path.
 
   <p>Para cualquier duda o consulta sobre este trabajo, puede ponerse en contacto con el autor en rlospitao@gmail.com
   
