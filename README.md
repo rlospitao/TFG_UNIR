@@ -14,12 +14,16 @@
 Este repositorio contiene el código correspondiente al trabajo de <i>"Predicción de las precipitaciones en Madrid con Redes Neuronales"</i>. Se trata de cuatro libros notebooks desarrollados con Jupyter. Para poder ejecutar los notebooks, se recomienda abrir el repositorio desde Google Collaborate ya que así se dispone del entorno necesario para su ejecución.
 <p>Para la realización de este proyecto se han llevado a cabo las siguientes tareas:
  <ol>
- <li>1. Recopilación de datos climatológicos de la Comunidad de Madrid. Para ello, se utilizará la fuente abierta de la AEMET. 
- <li> 2. Transformación y preparación de los datos a los formatos necesarios para su análisis. Para ello, se trabajará con notebooks de Jupyter en lenguaje de programación Python.
- <li>. Selección de las variables climáticas más adecuadas para el modelo de predicción a través de una matriz de correlación.
- <li> 4. Desarrollo y evaluación de diferentes modelos predictivos. Se desarrollarán en lenguaje de programación Python, utilizando librerías de Aprendizaje Profundo.
+  <li><b> Recopilación y extracción de los datos climatológicos</b> de la Comunidad de Madrid. Para ello, se utilizará la fuente abierta de a href="https://opendata.aemet.es/">OpenData AEMET</a>. 
+ <li><b>Transformación y preparación de los datos </b>a los formatos necesarios para su análisis. Para ello, se trabajará con notebooks de Jupyter en lenguaje de programación Python.
+<li><b>Selección de las variables climáticas más adecuadas</b> para el modelo de predicción a través de una matriz de correlación.
+<li><b>Desarrollo y evaluación de diferentes modelos predictivos</b>. Se desarrollarán en lenguaje de programación Python, utilizando librerías de Aprendizaje Profundo.
 </ol>
-A continuación, se describen los ficheros y su contenido
+<p> El proyecto, consta de los siguientes libros Jupyter: 
 
-* Fichero 01a-extract_data_all_stations.ipynb
+* 01a-extract_data_all_stations.ipynb
+* 01b-extract_data_3195.ipynb
+* 02-clean_data_3195.ipynb
+* 03-predective_models.ipynb
+* 04-calculate_spi.ipynb
   
