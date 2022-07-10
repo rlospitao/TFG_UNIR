@@ -3,7 +3,7 @@
 
 
 <h3 align="center">  Universidad Internacional de La Rioja <br> Escuela Superior de Ingeniería y Tecnología </h3>
-<p align="center"> Ruth Lospitao Ruiz, Julio 2022
+<p align="center"> Ruth Lospitao Ruiz, julio 2022
 
 
 <p><b>Resumen:</b> La escasez de precipitaciones puede suponer una catástrofe humana y económica de gran impacto. Este trabajo consiste en proponer una posible solución, mediante la predicción de las precipitaciones en la Comunidad de Madrid. Para ello, se descargan datos climatológicos de la Agencia Española de Meteorología, los cuales serán tratados para utilizarlos en diferentes modelos predictivos basados en las redes neuronales recurrentes.
@@ -33,4 +33,4 @@ Este repositorio contiene el código correspondiente al trabajo de <i>"Predicci�
 
   <p>Para cualquier duda o consulta sobre este trabajo, puede ponerse en contacto con el autor en rlospitao@gmail.com
   
-  <p>10 de Julio 2022
+  <p>10 de julio 2022
