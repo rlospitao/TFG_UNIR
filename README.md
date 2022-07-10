@@ -14,7 +14,7 @@
 Este repositorio contiene el código correspondiente al trabajo de <i>"Predicción de las precipitaciones en Madrid con Redes Neuronales"</i>. Se trata de cuatro libros notebooks desarrollados con Jupyter. Para poder ejecutar los notebooks, se recomienda abrir el repositorio desde Google Collaborate ya que así se dispone del entorno necesario para su ejecución.
 <p>Para la realización de este proyecto se han llevado a cabo las siguientes tareas:
  <ol>
-  <li><b> Recopilación y extracción de los datos climatológicos</b> de la Comunidad de Madrid. Para ello, se utilizará la fuente abierta de <a href="https://opendata.aemet.es/">OpenData AEMET</a>. 
+  <li><b> Recopilación y extracción de los datos climatológicos</b> de la Comunidad de Madrid. Para ello, se utilizará la fuente abierta de <a href="https://opendata.aemet.es/" target="_blank">OpenData AEMET</a>. 
  <li><b>Transformación y preparación de los datos </b>a los formatos necesarios para su análisis. Para ello, se trabajará con notebooks de Jupyter en lenguaje de programación Python.
 <li><b>Selección de las variables climáticas más adecuadas</b> para el modelo de predicción a través de una matriz de correlación.
 <li><b>Desarrollo y evaluación de diferentes modelos predictivos</b>. Se desarrollarán en lenguaje de programación Python, utilizando librerías de Aprendizaje Profundo.
