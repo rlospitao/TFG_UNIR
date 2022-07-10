@@ -27,7 +27,7 @@ Este repositorio contiene el código correspondiente al trabajo de <i>"Predicci�
 * <i>03-predective_models.ipynb</i>.<p>A partir del conjunto de datos limpios, se procederá a prepararlos en series temporales y diseñar diferentes modelos predictivos basados en redes neuronales para compararlos. La predicción se almacena en <i>data\prediction_precipitation_3195.xlsx</i>
 * <i>04-calculate_spi.ipynb</i>.<p>Notebook que, a partir del fichero demostración <i>data\rainfall_3195.xlsx</i> (que almacena posibles predicciones), calcula el índice SPI para determinar si hay o no sequía.
 
-<p>Para su desarrollo, se ha empleado un entorno en Anaconda Navigator con las siguientes librerías: <i>´matplotlib, missingno, seaborn,Keras 2.6 y TensorFlow 2</i>.
+<p>Para su desarrollo, se ha empleado un entorno en Anaconda Navigator con las siguientes librerías: <i>matplotlib, missingno, seaborn,Keras 2.6 y TensorFlow 2</i>.
 
 <p>Nota: Para su ejecución, se recomienda buscar desde Google Collaborate este repositorio, teniendo en cuenta que la lectura de los ficheros se realiza desde un directorio (previamente creado) con el nombre <i>data</i>. Otra opción, sería subir los ficheros .csv al directorio <i>sample_data</i>de Google Collaborare y modificar el path.
 
