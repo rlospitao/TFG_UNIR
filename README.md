@@ -13,11 +13,11 @@
 <p>
 Este repositorio contiene el código correspondiente al trabajo de <i>"Predicción de las precipitaciones en Madrid con Redes Neuronales"</i>. Se trata de cuatro libros notebooks desarrollados con Jupyter. Para poder ejecutar los notebooks, se recomienda abrir el repositorio desde Google Collaborate ya que así se dispone del entorno necesario para su ejecución.
 <p>Para la realización de este proyecto se han llevado a cabo las siguientes tareas:
- <ol>
-  <li><b> Recopilación y extracción de los datos climatológicos</b> de la Comunidad de Madrid. Para ello, se utilizará la fuente abierta de <a href="https://opendata.aemet.es/" target="_blank">OpenData AEMET</a>. 
- <li><b>Transformación y preparación de los datos </b>a los formatos necesarios para su análisis. Para ello, se trabajará con notebooks de Jupyter en lenguaje de programación Python.
-<li><b>Selección de las variables climáticas más adecuadas</b> para el modelo de predicción a través de una matriz de correlación.
-<li><b>Desarrollo y evaluación de diferentes modelos predictivos</b>. Se desarrollarán en lenguaje de programación Python, utilizando librerías de Aprendizaje Profundo.
+<ol>
+  <li><b> Recopilación y extracción de los datos climatológicos</b> de la Comunidad de Madrid. Para ello, se utilizará la fuente abierta de <a href="https://opendata.aemet.es/" target="_blank">OpenData AEMET</a>. </li>
+ <li><b>Transformación y preparación de los datos </b>a los formatos necesarios para su análisis. Para ello, se trabajará con notebooks de Jupyter en lenguaje de programación Python.</li>
+<li><b>Selección de las variables climáticas más adecuadas</b> para el modelo de predicción a través de una matriz de correlación.</li>
+<li><b>Desarrollo y evaluación de diferentes modelos predictivos</b>. Se desarrollarán en lenguaje de programación Python, utilizando librerías de Aprendizaje Profundo.</li>
 </ol>
 <p> El proyecto, consta de los siguientes libros Jupyter: 
 
@@ -25,5 +25,5 @@ Este repositorio contiene el código correspondiente al trabajo de <i>"Predicci�
 * <i>01b-extract_data_3195.ipynb</i>.<p>Notebook que se conecta a OpenData AEMET para descargar los datos climatológicos mensuales de la estación de medición de Retiro, desde 1893 hasta 2022. La información obtenida se almacena en <i>data\data_3195.csv</i> Finalmente, serán los datos de la estación de Retiro los que se utilicen para este estudio; ya que es la estación con más datos y puede ser representativa de Madrid.
 * <i>02-clean_data_3195.ipynb</i>.<p>Notebook que realiza la exploración y limpieza de los datos climatológicos de la estación de Retiro. Para ello, se transformaran variables, se eliminaran las que no sean necesarias y se corregirán valores atípicos y NaN. El resultadp  se almacena en <i>data\clean_3195.csv</i>
 * <i>03-predective_models.ipynb</i>.<p>A partir del conjunto de datos limpios, se procederá a prepararlos en series temporales y diseñar diferentes modelos predictivos basados en redes neuronales para compararlos. La predicción se almacena en <i>data\prediction_precipitation_3195.xlsx</i>
-* <i>04-calculate_spi.ipynb</i>.<p>Notebook que, a partir del fichero demostración <i>data\rainfall_3195.xlsx</i> (que almacena las posibles predicciones), calcula el índice SPI para determinar si hay o no sequía.
+* <i>04-calculate_spi.ipynb</i>.<p>Notebook que, a partir del fichero demostración <i>data\rainfall_3195.xlsx</i> (que almacena posibles predicciones), calcula el índice SPI para determinar si hay o no sequía.
   
